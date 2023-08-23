@@ -1,0 +1,28 @@
+[
+  {
+    "id": "title",
+    "type": "text",
+    "text": "릭택스 거래처 연동",
+    "style": "h1"
+  },
+  {
+  "id": "context-divider",
+  "type": "divider"
+  },
+  {
+    "id": "company-input",
+    "type": "input",
+    "label": "거래처명",
+    "placeholder": "예: 데모컴퍼니"
+  },
+ 
+  {
+    "id": "submit-button",
+    "type": "button",
+    "label": "연동하기",
+    "action": {
+      "type": "submit",
+      "url": ""
+    }
+  }
+]
